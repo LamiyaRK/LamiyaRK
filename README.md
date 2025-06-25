@@ -114,7 +114,7 @@ I am a **Computer Science** student, currently halfway through my degree. I’m 
 <tr>
 <td width="50%" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=LamiyaRK&theme=nightowl&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LamiyaRK&theme=nightowl&hide_border=false" alt="LamiyaRK streak" />
+   
 </td>
 <td width="50%" align="center">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LamiyaRK&theme=nightowl&hide_border=false&langs_count=10"/>
