@@ -1,7 +1,7 @@
 Hey
 <img src="./banner.png" alt="Banner" width="100%" />
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="400px">
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;***About me***
 
 <img src="./programming-computer-frog.gif" align="right" width="200px" alt="Programming Frog" />
