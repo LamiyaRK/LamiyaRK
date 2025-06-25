@@ -71,18 +71,13 @@ Hey
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
       <br>MySQL
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/auth0.png" width="48" height="48" alt="JWT" />
-      <br>JWT
-    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="NPM" />
       <br>NPM
     </td>
   </tr>
 </table>
+
 
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilyx&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
