@@ -1,6 +1,4 @@
-<div style="width: 100%; height: 400px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
-  <img src="your-image-url" alt="Banner" style="min-width: 100%; min-height: 100%; object-fit: cover;" />
-</div>
+<img src="./banner.png" width="100%" >
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" >
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;***About me***
