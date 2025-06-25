@@ -1,9 +1,11 @@
 <img src="./banner.png" width="100%" >
-
+<br>
+<br>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" >
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;***About me***
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 <img src="./programming-computer-frog.gif" align="right" width="200px" alt="Programming Frog" />
 
 I am a **Computer Science** student, currently halfway through my degree. I’m expanding my knowledge in both back‑end and front‑end development. I enjoy building creative and useful projects, and I’m always excited to explore new technologies.  
