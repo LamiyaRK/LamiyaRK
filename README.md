@@ -1,15 +1,16 @@
 Hey 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;***About me***
 
-<img align="right" width="200px" alt="Programming Frog" src="https://media.tenor.com/DFKyvpppPZIAAAAM/programming-computer-frog.gif" />
+<img align="right" width="200px" alt="Programming Frog" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I am a **Computer Science** student, currently halfway through my degree, I am expanding my knowledge in both back-end and front-end development. I enjoy building creative and useful projects, and I’m always excited to explore new technologies.
+I am a **Computer Science** student, currently halfway through my degree, I am expanding my knowledge in both back-end and front-end development. I enjoy building creative and useful projects, and I’m always excited to explore new technologies.  
 - 📚 I’m currently learning ...
   - *MongoDB*
   - *JWT*
-- 🚀 I’m eager to join new projects.
-- 📫 Reach out to me at: <a href="lamiyarahmankhan01@gmail.com">lamiyarahmankhan01@gmail.com</a>
+- 🚀 I’m eager to join new projects.  
+- 📫 Reach out to me at: <a href="mailto:lamiyarahmankhan01@gmail.com">lamiyarahmankhan01@gmail.com</a>
+
 
 ## My Favorite Tools and Technologies ⚙️
 
