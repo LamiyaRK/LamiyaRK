@@ -30,6 +30,10 @@ Hey
       <br>Firebase
     </td>
     <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png" width="48" height="48" alt="JSON" />
+      <br>JSON
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
