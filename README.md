@@ -1,4 +1,5 @@
 Hey 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 ## My Favorite Tools and Technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
@@ -85,3 +86,4 @@ Hey
 
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LamiyaRK&theme=github-dark-dimmed&custom_title=LamiyaRK%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
