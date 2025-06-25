@@ -2,7 +2,7 @@ Hey
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;***About me***
 
-<img align="right" width="200px" alt="Coding Girl" src="https://media.tenor.com/wjMe8hhdWqkAAAAM/coding-girl.gif" />
+<img src="https://github.com/LamiyaRK/LamiyaRK/blob/main/path/to/programming-computer-frog.gif?raw=true" align="right" width="200px" alt="Programming Frog" />
 
 I am a **Computer Science** student, currently halfway through my degree. I’m expanding my knowledge in both back‑end and front‑end development. I enjoy building creative and useful projects, and I’m always excited to explore new technologies.  
 - 📚 Currently learning: *MongoDB*, *JWT*  
