@@ -9,7 +9,7 @@
 <img src="./programming-computer-frog.gif" align="right" width="200px" alt="Programming Frog" />
 
 I am a **Computer Science** student, currently halfway through my degree. I’m expanding my knowledge in both back‑end and front‑end development. I enjoy building creative and useful projects, and I’m always excited to explore new technologies.  
-- 📚 Currently learning: *MongoDB*, *JWT*  
+- 📚 Currently learning: *Next.js*, *TypeScript*  
 - 🚀 I’m eager to join new projects.  
 - 📫 Reach out to me at: <a href="mailto:lamiyarahmankhan01@gmail.com">lamiyarahahmankhan01@gmail.com</a>
 
