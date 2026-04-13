@@ -6,7 +6,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Lamiya;CS+Student;Full-Stack+Web+Development;Exploring+Modern+Technologies" alt="Typing SVG" align="center" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Lamiya;CS+Student;Full-Stack+Web+Development;Exploring+Modern+Technologies" alt="Typing SVG" align="center" width="100%" />
 
 <br/>
 
